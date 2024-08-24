@@ -72,7 +72,7 @@ export const assets = {
 export const albumsData = [
     {   
         id:0,
-        name: "Top 50 Global",
+        name: "Plaki - SO VIELE pull ups UND muscle up UND LIGESHTYTZEN",
         image: img8,
         desc:"Your weekly update of the most played tracks",
         bgColor:"#2a4365"
